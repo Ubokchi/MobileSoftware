@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="top">MyApplication</string>
+    <string name="text1">Profile</string>
+    <string name="text2">Photo</string>
+    <string name="edit1">Name</string>
+    <string name="edit2">Phone</string>
+    <string name="button1">인삿말</string>
+    <string name="button2">종료</string>
+</resources>
