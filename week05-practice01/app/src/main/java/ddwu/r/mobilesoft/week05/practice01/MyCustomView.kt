@@ -1,4 +1,4 @@
-package ddwu.com.mobile.week06.sample.mycustomview
+package ddwu.r.mobilesoft.week05.practice01
 
 import android.content.Context
 import android.graphics.Canvas
