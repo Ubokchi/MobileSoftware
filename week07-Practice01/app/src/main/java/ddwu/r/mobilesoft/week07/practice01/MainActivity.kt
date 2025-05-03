@@ -62,7 +62,7 @@ class MainActivity : AppCompatActivity() {
         soupItemCheck01?.isChecked = SoupSelected01
 
         val soupItemCheck02: MenuItem? = menu?.findItem(R.id.SoupItem02)
-        soupItemCheck02?.isChecked = SoupSelected01
+        soupItemCheck02?.isChecked = SoupSelected02
 
         val noodleItemCheck01: MenuItem? = menu?.findItem(R.id.NoodleItem01)
         noodleItemCheck01?.isChecked = NoodleSelected01
