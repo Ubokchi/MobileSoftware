@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "ddwu.r.mobilesoft.week07.circlemenutest"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "ddwu.r.mobilesoft.week07.circlemenutest"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
@@ -32,6 +32,9 @@ android {
     }
     kotlinOptions {
         jvmTarget = "1.8"
+    }
+    viewBinding {
+        enable = true
     }
 }
 
