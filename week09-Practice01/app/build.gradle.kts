@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "ddwu.r.mobilesoft.week09.practice01"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "ddwu.r.mobilesoft.week09.practice01"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
