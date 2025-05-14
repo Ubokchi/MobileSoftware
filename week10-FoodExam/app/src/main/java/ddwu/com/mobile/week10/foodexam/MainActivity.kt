@@ -43,12 +43,6 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        button.setOnclickList {
-
-        }
-
-
-
         adapter.setOnLongItemClickListener(longClick)
 
         val layoutManager = LinearLayoutManager(this)
